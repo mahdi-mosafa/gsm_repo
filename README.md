@@ -1,5 +1,6 @@
 # GSMArena Mobile Data Scraper
 
+## Overview
 A Python-based web crawler leveraging Playwright to scrape detailed information about mobile phones from GSMArena. This project is designed for structured data extraction and comes in two versions:
 - **Text-only scraping** (current branch): Extracts specifications, comments, and metadata.
 - **Image-inclusive scraping** (separate branch): Downloads associated images alongside textual data.
